@@ -45,8 +45,9 @@
             "site": "https://www.epicgames.com/store/en-US/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
+            
           {
-            "name": "File Zila",
+            "name": "FileZila",
             "site": "https://filezilla-project.org/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
@@ -161,6 +162,16 @@
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
+            "name": "Itunes",
+            "site": "https://www.apple.com/itunes/",
+            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
+          },
+          {
+            "name": "Adobe XD",
+            "site": "https://www.adobe.com/products/xd.html",
+            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
+          },
+          {
             "name": "VMWare",
             "site": "https://www.vmware.com/products/workstation-player.html",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
@@ -179,7 +190,23 @@
             "name": "Windows Subsystem Linux Update",
             "site": "https://docs.microsoft.com/en-us/windows/wsl/wsl2-kernel",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
+          },
+          {
+            "name": "Daynamics Theme",
+            "site": "https://www.microsoft.com/store/productId/9NBLGGH1ZBKW",
+            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
+          },
+          {
+            "name": "Ubuntu 20.04 WLS",
+            "site": "https://www.microsoft.com/store/productId/9N6SVWS3RX71",
+            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
+          },
+          {
+            "name": "Windows Terminal",
+            "site": "https://www.microsoft.com/store/productId/9N0DX20HK701",
+            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           }
+
         ],
         "id": "wejrioewjr",
         "category": "E-commerce"
