@@ -120,6 +120,11 @@
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
+            "name": "Insomnia",
+            "site": "https://insomnia.rest/download/",
+            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
+          },
+          {
             "name": "Postman",
             "site": "https://www.postman.com/downloads/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
