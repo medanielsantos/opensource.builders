@@ -11,8 +11,13 @@
         "alts": [
           {
             "name": "7-Zip",
-            "site": "https://saleor.io/",
-            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
+            "repo": "reactioncommerce/reaction",
+            "site": "http://www.reactioncommerce.com/",
+            "license": "GPL V3",
+            "stars": "9.6K",
+            "svg": "https://user-images.githubusercontent.com/34615258/75008703-5e98d000-543e-11ea-912c-5678fb12e1a0.png",
+            "language": "JS",
+            "deploy": "https://docs.reactioncommerce.com/docs/deploying-reaction-using-heroku"
           },
           {
             "name": "Adobe Acrobat Reader DC",
