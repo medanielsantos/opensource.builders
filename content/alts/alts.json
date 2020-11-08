@@ -18,6 +18,11 @@
             "svg": "https://user-images.githubusercontent.com/34615258/75008703-5e98d000-543e-11ea-912c-5678fb12e1a0.png",
             "language": "JS",
             "deploy": "https://docs.reactioncommerce.com/docs/deploying-reaction-using-heroku"
+          },
+          {
+            "name": "Geforce Driver",
+            "site": "https://www.nvidia.com/Download/driverResults.aspx/166374/en-us",
+            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },  
           {
             "name": "Adobe Acrobat Reader DC",
@@ -51,132 +56,122 @@
           },
           {
             "name": "Google Chrome",
-            "site": "https://saleor.io/",
+            "site": "https://www.google.com/chrome/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Heroku",
-            "site": "https://saleor.io/",
+            "site": "https://devcenter.heroku.com/categories/command-line",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Hyper",
-            "site": "https://saleor.io/",
+            "site": "https://hyper.is/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Java JDK 15.0.01",
-            "site": "https://saleor.io/",
+            "site": "https://www.oracle.com/java/technologies/javase-downloads.html",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Kaspersky",
-            "site": "https://saleor.io/",
-            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
-          },
-          {
-            "name": "Microsoft Edge",
-            "site": "https://saleor.io/",
+            "site": "https://usa.kaspersky.com/downloads/thank-you/internet-security-free-trial#download",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Microsoft Office",
-            "site": "https://saleor.io/",
+            "site": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=4345a7b9-9a63-4910-a426-35363201d503&redirect_uri=https%3A%2F%2Fwww.office.com%2Flanding&response_type=code%20id_token&scope=openid%20profile&response_mode=form_post&nonce=637404169391210719.Y2QyZjc5MDUtZDIwNC00NmQ2LTljZGYtOTA0ODM1ZjhlZjc5NmY4M2FjM2UtYjk3NC00Y2UzLThiOWYtY2JkM2NmMjg0YjZi&ui_locales=en-US&mkt=en-US&client-request-id=e21829da-47a2-4a15-9a68-7a0273760bd7&login_hint=daniel.santos128%40fatec.sp.gov.br&msafed=0&state=GplybDovEN8WByGksl3BIDz5h_R8mw7LOZMcCFz_NERSgoDMpLdvjvWL4y1dDyE0VM2qWvrk_zvDQHRPzIFa7mSTUvmiXCd8aVaELG-fVWxXaHFi1LLiR3xlZVeSRe9kvpZL0EjCyAkBG9iielYaimLimL-cq5UOMmHEV4Pahx1ToZeSwR8_Rd_DvxtM3-8p_loT9S8dDEkUNy2cNcqkJ0QtYzrH9DNRkY2i1NQHkRTvtZyo53LIsHjQQbKqVFR49LqewLbBzAzw4Y0-fMNno8VkZU3gFBL7YuSUp_SUjY4bU4LLH8rbpTVnm9QIgb9Dalqw5mEzEJSp_JKJaD8NGZMYQFKWsTuBypIhZAP9i37TQ0rvFXuw9tUbngGrpUAXxIBnEwPKiJRGzgiMQO15tA&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.6.0.0",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Microsoft Teams",
-            "site": "https://saleor.io/",
+            "site": "https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Microsoft Vistaul Studio Code",
-            "site": "https://saleor.io/",
+            "site": "https://code.visualstudio.com/#alt-downloads",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
-            "name": "Mozila Firefox 82",
-            "site": "https://saleor.io/",
+            "name": "Mozila Firefox",
+            "site": "https://www.mozilla.org/en-US/firefox/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
-            "name": "NodeJS 14",
-            "site": "https://saleor.io/",
+            "name": "NodeJS",
+            "site": "https://nodejs.org/en/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Notion",
-            "site": "https://saleor.io/",
-            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
-          },
-          {
-            "name": "Geforce Driver",
-            "site": "https://saleor.io/",
+            "site": "https://www.notion.so/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Origin",
-            "site": "https://saleor.io/",
+            "site": "https://www.origin.com/bra/pt-br/store/download",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "PHPStorm",
-            "site": "https://saleor.io/",
+            "site": "https://www.jetbrains.com/phpstorm/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Postman",
-            "site": "https://saleor.io/",
+            "site": "https://www.postman.com/downloads/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Navicat",
-            "site": "https://saleor.io/",
+            "site": "http://download3.navicat.com/download/navicatess112_premium_en_x64.exe",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "PyCharm",
-            "site": "https://saleor.io/",
+            "site": "https://www.jetbrains.com/phcharm/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
-            "name": "Rockstat Kan=uncher",
-            "site": "https://saleor.io/",
+            "name": "Rockstat Laucher",
+            "site": "https://socialclub.rockstargames.com/rockstar-games-launcher?_ga=2.45556972.93043448.1604820567-1469907682.1604820567",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Slack",
-            "site": "https://saleor.io/",
+            "site": "https://slack.com/intl/pt-br/downloads",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Sublime Text 3",
-            "site": "https://saleor.io/",
+            "site": "https://www.sublimetext.com/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Uplay",
-            "site": "https://saleor.io/",
+            "site": "https://ubisoftconnect.com/en-US/?isSso=true&refreshStatus=noLoginData",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "VMWare",
-            "site": "https://saleor.io/",
+            "site": "https://www.vmware.com/products/workstation-player.html",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Plugin do Itau",
-            "site": "https://saleor.io/",
+            "site": "https://www.itau.com.br/seguranca/guardiao/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Yarn",
-            "site": "https://saleor.io/",
+            "site": "https://yarnpkg.com/getting-started/install",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Windows Subsystem Linux Update",
-            "site": "https://saleor.io/",
+            "site": "https://docs.microsoft.com/en-us/windows/wsl/wsl2-kernel",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           }
         ],
