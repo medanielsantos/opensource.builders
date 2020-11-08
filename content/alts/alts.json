@@ -1,24 +1,16 @@
 {
     "alternatives": [
       {
-        "alts": [
+        "commercial": [
           {
-            "name": "WriteFreely",
-            "site": "https://writefreely.org/",
-            "stars": "1.6K",
-            "license": "AGPL V3",
-            "language": "GO",
-            "repo": "writeas/writefreely",
-            "svg": "https://github.com/writeas/writefreely/blob/master/static/img/touch-icon-180.png?raw=true"
-          }, 
+            "main": "Shopify",
+            "svg": "https://cdn.worldvectorlogo.com/logos/shopify.svg",
+            "website": "https://shopify.com"
+          },
           {
-            "name": "Sigle",
-            "site": "https://www.sigle.io/",
-            "stars": "149",
-            "license": "MIT",
-            "svg": "https://app.sigle.io/icon-192x192.png",
-            "language": "JS",
-            "repo": "pradel/sigle"
+            "main": "BigCommerce",
+            "svg": "https://images.ctfassets.net/ji35mhihvyjo/4X8mBlHCRaAQMMUWEIgQU8/2673daeefcbb7c4f38dffb312e77ca45/bigcommerce.svg",
+            "website": "https://bigcommerce.com"
           }
         ],
         "id": "fvlhaa4dg",
