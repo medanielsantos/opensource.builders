@@ -11,203 +11,166 @@
         "alts": [
           {
             "name": "7-Zip",
-            "repo": "reactioncommerce/reaction",
-            "site": "http://www.reactioncommerce.com/",
-            "license": "GPL V3",
-            "stars": "9.6K",
-            "svg": "https://user-images.githubusercontent.com/34615258/75008703-5e98d000-543e-11ea-912c-5678fb12e1a0.png",
-            "language": "JS",
-            "deploy": "https://docs.reactioncommerce.com/docs/deploying-reaction-using-heroku"
+            "site": "https://saleor.io/",
+            "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Adobe Acrobat Reader DC",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Discord",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Docker Desktop",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Epic Games",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "File Zila",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Git SCM",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Google Chrome",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Heroku",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Hyper",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Java JDK 15.0.01",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Kaspersky",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Microsoft Edge",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Microsoft Office",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Microsoft Teams",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Microsoft Vistaul Studio Code",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Mozila Firefox 82",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "NodeJS 14",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Notion",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Geforce Driver",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Origin",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "PHPStorm",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Postman",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Navicat",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "PyCharm",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Rockstat Kan=uncher",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Slack",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Sublime Text 3",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Uplay",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "VMWare",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Plugin do Itau",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Yarn",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           },
           {
             "name": "Windows Subsystem Linux Update",
-            "repo": "mirumee/saleor",
             "site": "https://saleor.io/",
             "svg": "https://user-images.githubusercontent.com/34615258/75009087-5db46e00-543f-11ea-8bf3-fe057e6779da.png"
           }
