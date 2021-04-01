@@ -1,252 +1,253 @@
 {
-  "alternatives": [
-    {
-      "commercial": [
-        {
-          "main": "7-Zip",
-          "svg": "https://cdn.worldvectorlogo.com/logos/shopify.svg",
-          "website": "https://shopify.com"
-        }
-      ],
-      "alts": [
-        {
-            "name": "G-Force",
-            "site": "https://www.nvidia.com/en-us/geforce/drivers/",
-            "auth": ""
-          },
+    "alternatives": [
+      {
+        "commercial": [
           {
-            "name": "Adobe PDF",
-            "site": "https://get.adobe.com/reader/",
-            "auth": ""
-          },
-          {
-            "name": "Adobe Creative Cloud",
-            "site": "https://creativecloud.adobe.com/apps/download/xd?promoid=BRLW38VW&mv=other",
-            "auth": ""
-          },
-          {
-            "name": "Winrar",
-            "site": "https://www.win-rar.com/start.html?&L=0",
-            "auth": ""
-          },
-          {
-            "name": "Netbeans",
-            "site": "https://netbeans.apache.org/",
-            "auth": ""
-          },
-          {
-            "name": "EpicGames",
-            "site": "https://www.epicgames.com/store/pt-BR/",
-            "auth": ""
-          },
-          {
-            "name": "Firefox",
-            "site": "https://www.mozilla.org/en-US/firefox/new/",
-            "auth": ""
-          },
-          {
-            "name": "Git",
-            "site": "https://git-scm.com/",
-            "auth": ""
-          },
-          {
-            "name": "Chrome",
-            "site": "https://www.google.com/intl/en-US/chrome/",
-            "auth": ""
-          },
-          {
-            "name": "Itunes",
-            "site": "https://www.apple.com/itunes/",
-            "auth": ""
-          },
-          {
-            "name": "Navicat",
-            "site": "http://download3.navicat.com/download/navicatess112_premium_en_x64.exe",
-            "auth": ""
-          },
-          {
-            "name": "OBS Studio",
-            "site": "https://obsproject.com/",
-            "auth": ""
-          },
-          {
-            "name": "Virtual Box",
-            "site": "https://www.virtualbox.org/",
-            "auth": ""
-          },
-          {
-            "name": "Origin",
-            "site": "https://www.origin.com/bra/en-us/store",
-            "auth": ""
-          },
-          {
-            "name": "PHP Storm",
-            "site": "https://www.jetbrains.com/phpstorm/",
-            "auth": ""
-          },
-          {
-            "name": "QueryPie",
-            "site": "https://discord.com/",
-            "auth": ""
-          },
-          {
-            "name": "Steam",
-            "site": "https://store.steampowered.com/",
-            "auth": ""
-          },
-          {
-            "name": "Valorant",
-            "site": "https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.br.exe",
-            "auth": ""
-          },
-          {
-            "name": "Visual Studio Code",
-            "site": "https://code.visualstudio.com/#alt-downloads",
-            "auth": ""
-          },
-          {
-            "name": "Visual Studio Community",
-            "site": "https://visualstudio.com/",
-            "auth": ""
-          },
-          {
-            "name": "VmWare",
-            "site": "https://www.vmware.com/products/workstation-player.html",
-            "auth": ""
-          },
-          {
-            "name": "Atom",
-            "site": "https://atom.io/",
-            "auth": ""
-          },
-          {
-            "name": "Discord",
-            "site": "https://discord.com/",
-            "auth": ""
-          },
-          {
-            "name": "Hyper",
-            "site": "https://hyper.is/",
-            "auth": ""
-          },
-          {
-            "name": "Microsoft Teams",
-            "site": "https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app",
-            "auth": ""
-          },
-          {
-            "name": "Office",
-            "site": "https://office.com/",
-            "auth": ""
-          },
-          {
-            "name": "MongoDB Compass",
-            "site": "https://www.mongodb.com/try/download/community",
-            "auth": ""
-          },
-          {
-            "name": "Postman",
-            "site": "https://www.postman.com/",
-            "auth": ""
-          },
-          {
-            "name": "Rockstar Laucher",
-            "site": "https://socialclub.rockstargames.com/rockstar-games-launcher",
-            "auth": ""
-          },
-          {
-            "name": "Slack",
-            "site": "https://slack.com/intl/en-br/",
-            "auth": ""
-          },
-          {
-            "name": "Sublime Text",
-            "site": "https://www.sublimetext.com/",
-            "auth": ""
-          },
-          {
-            "name": "Ubisoft",
-            "site": "https://www.ubisoft.com/en-us/",
-            "auth": ""
-          },
-          {
-            "name": "Whatsapp",
-            "site": "https://www.whatsapp.com/download",
-            "auth": ""
-          },
-          {
-            "name": "Unity",
-            "site": "https://store.unity.com/#plans-individual",
-            "auth": ""
-          },
-          {
-            "name": "Docker",
-            "site": "https://www.docker.com/products/docker-desktop",
-            "auth": ""
-          },
-          {
-            "name": "Android Studio",
-            "site": "https://developer.android.com/studio/",
-            "auth": ""
-          },
-          {
-            "name": "PyCharm",
-            "site": "https://www.jetbrains.com/pycharm/",
-            "auth": ""
-          },
-          {
-            "name": "Insorminia",
-            "site": "https://insomnia.rest/",
-            "auth": ""
-          },
-          {
-            "name": "Yarn",
-            "site": "https://classic.yarnpkg.com/lang/en/",
-            "auth": ""
-          },
-          {
-            "name": "NodeJS",
-            "site": "https://nodejs.org/en/",
-            "auth": ""
-          },
-          {
-            "name": "PowerShell 7",
-            "site": "https://github.com/PowerShell/powershell/releases",
-            "auth": ""
-          },
-          {
-            "name": "WSL 2 Atualização",
-            "site": "https://docs.microsoft.com/en-us/windows/wsl/install-win10",
-            "auth": ""
-          },
-          {
-            "name": "Dynamic Theme",
-            "site": "https://www.microsoft.com/store/productId/9NBLGGH1ZBKW/",
-            "auth": ""
-          },
-          {
-            "name": "Ubuntu 20.04",
-            "site": "https://www.microsoft.com/store/productId/9N6SVWS3RX71",
-            "auth": ""
-          },
-          {
-            "name": "Windows Terminal",
-            "site": "https://www.microsoft.com/store/productId/9N0DX20HK701",
-            "auth": ""
-          },
-          {
-            "name": "Plugin Itau",
-            "site": "https://www.itau.com.br/guardiao/",
-            "auth": ""
-          },
-          {
-            "name": "Vagrant",
-            "site": "https://www.vagrantup.com/",
-            "auth": ""
+            "main": "7-Zip",
+            "svg": "https://cdn.worldvectorlogo.com/logos/shopify.svg",
+            "website": "https://shopify.com"
           }
-      ],
-      "id": "wejrioewjr",
-      "category": "E-commerce"
-    }
-  ]
-}
+        ],
+        "alts": [
+            {
+                "name": "G-Force",
+                "site": "https://www.nvidia.com/en-us/geforce/drivers/",
+                "auth": ""
+              },
+              {
+                "name": "Adobe PDF",
+                "site": "https://get.adobe.com/reader/",
+                "auth": ""
+              },
+              {
+                "name": "Adobe Creative Cloud",
+                "site": "https://creativecloud.adobe.com/apps/download/xd?promoid=BRLW38VW&mv=other",
+                "auth": ""
+              },
+              {
+                "name": "Winrar",
+                "site": "https://www.win-rar.com/start.html?&L=0",
+                "auth": ""
+              },
+              {
+                "name": "Netbeans",
+                "site": "https://netbeans.apache.org/",
+                "auth": ""
+              },
+              {
+                "name": "EpicGames",
+                "site": "https://www.epicgames.com/store/pt-BR/",
+                "auth": ""
+              },
+              {
+                "name": "Firefox",
+                "site": "https://www.mozilla.org/en-US/firefox/new/",
+                "auth": ""
+              },
+              {
+                "name": "Git",
+                "site": "https://git-scm.com/",
+                "auth": ""
+              },
+              {
+                "name": "Chrome",
+                "site": "https://www.google.com/intl/en-US/chrome/",
+                "auth": ""
+              },
+              {
+                "name": "Itunes",
+                "site": "https://www.apple.com/itunes/",
+                "auth": ""
+              },
+              {
+                "name": "Navicat",
+                "site": "http://download3.navicat.com/download/navicatess112_premium_en_x64.exe",
+                "auth": ""
+              },
+              {
+                "name": "OBS Studio",
+                "site": "https://obsproject.com/",
+                "auth": ""
+              },
+              {
+                "name": "Virtual Box",
+                "site": "https://www.virtualbox.org/",
+                "auth": ""
+              },
+              {
+                "name": "Origin",
+                "site": "https://www.origin.com/bra/en-us/store",
+                "auth": ""
+              },
+              {
+                "name": "PHP Storm",
+                "site": "https://www.jetbrains.com/phpstorm/",
+                "auth": ""
+              },
+              {
+                "name": "QueryPie",
+                "site": "https://discord.com/",
+                "auth": ""
+              },
+              {
+                "name": "Steam",
+                "site": "https://store.steampowered.com/",
+                "auth": ""
+              },
+              {
+                "name": "Valorant",
+                "site": "https://valorant.secure.dyn.riotcdn.net/channels/public/x/installer/current/live.live.br.exe",
+                "auth": ""
+              },
+              {
+                "name": "Visual Studio Code",
+                "site": "https://code.visualstudio.com/#alt-downloads",
+                "auth": ""
+              },
+              {
+                "name": "Visual Studio Community",
+                "site": "https://visualstudio.com/",
+                "auth": ""
+              },
+              {
+                "name": "VmWare",
+                "site": "https://www.vmware.com/products/workstation-player.html",
+                "auth": ""
+              },
+              {
+                "name": "Atom",
+                "site": "https://atom.io/",
+                "auth": ""
+              },
+              {
+                "name": "Discord",
+                "site": "https://discord.com/",
+                "auth": ""
+              },
+              {
+                "name": "Hyper",
+                "site": "https://hyper.is/",
+                "auth": ""
+              },
+              {
+                "name": "Microsoft Teams",
+                "site": "https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/download-app",
+                "auth": ""
+              },
+              {
+                "name": "Office",
+                "site": "https://office.com/",
+                "auth": ""
+              },
+              {
+                "name": "MongoDB Compass",
+                "site": "https://www.mongodb.com/try/download/community",
+                "auth": ""
+              },
+              {
+                "name": "Postman",
+                "site": "https://www.postman.com/",
+                "auth": ""
+              },
+              {
+                "name": "Rockstar Laucher",
+                "site": "https://socialclub.rockstargames.com/rockstar-games-launcher",
+                "auth": ""
+              },
+              {
+                "name": "Slack",
+                "site": "https://slack.com/intl/en-br/",
+                "auth": ""
+              },
+              {
+                "name": "Sublime Text",
+                "site": "https://www.sublimetext.com/",
+                "auth": ""
+              },
+              {
+                "name": "Ubisoft",
+                "site": "https://www.ubisoft.com/en-us/",
+                "auth": ""
+              },
+              {
+                "name": "Whatsapp",
+                "site": "https://www.whatsapp.com/download",
+                "auth": ""
+              },
+              {
+                "name": "Unity",
+                "site": "https://store.unity.com/#plans-individual",
+                "auth": ""
+              },
+              {
+                "name": "Docker",
+                "site": "https://www.docker.com/products/docker-desktop",
+                "auth": ""
+              },
+              {
+                "name": "Android Studio",
+                "site": "https://developer.android.com/studio/",
+                "auth": ""
+              },
+              {
+                "name": "PyCharm",
+                "site": "https://www.jetbrains.com/pycharm/",
+                "auth": ""
+              },
+              {
+                "name": "Insorminia",
+                "site": "https://insomnia.rest/",
+                "auth": ""
+              },
+              {
+                "name": "Yarn",
+                "site": "https://classic.yarnpkg.com/lang/en/",
+                "auth": ""
+              },
+              {
+                "name": "NodeJS",
+                "site": "https://nodejs.org/en/",
+                "auth": ""
+              },
+              {
+                "name": "PowerShell 7",
+                "site": "https://github.com/PowerShell/powershell/releases",
+                "auth": ""
+              },
+              {
+                "name": "WSL 2 Atualização",
+                "site": "https://docs.microsoft.com/en-us/windows/wsl/install-win10",
+                "auth": ""
+              },
+              {
+                "name": "Dynamic Theme",
+                "site": "https://www.microsoft.com/store/productId/9NBLGGH1ZBKW/",
+                "auth": ""
+              },
+              {
+                "name": "Ubuntu 20.04",
+                "site": "https://www.microsoft.com/store/productId/9N6SVWS3RX71",
+                "auth": ""
+              },
+              {
+                "name": "Windows Terminal",
+                "site": "https://www.microsoft.com/store/productId/9N0DX20HK701",
+                "auth": ""
+              },
+              {
+                "name": "Plugin Itau",
+                "site": "https://www.itau.com.br/guardiao/",
+                "auth": ""
+              },
+              {
+                "name": "Vagrant",
+                "site": "https://www.vagrantup.com/",
+                "auth": ""
+              }
+
+        ],
+        "id": "wejrioewjr",
+        "category": "E-commerce"
+      }
+    ]
+  }
