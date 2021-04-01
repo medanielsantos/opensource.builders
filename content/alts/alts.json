@@ -160,6 +160,11 @@
             "auth": ""
           },
           {
+            "name": "Sublime Text",
+            "site": "https://www.sublimetext.com/",
+            "auth": ""
+          },
+          {
             "name": "Ubisoft",
             "site": "https://www.ubisoft.com/en-us/",
             "auth": ""
